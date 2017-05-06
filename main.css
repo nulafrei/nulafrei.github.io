@@ -1,3 +1,28 @@
 h1{
   color: #b642f4;
 }
+h2{
+  color: black;
+  font-family: "Impact", Charcoal, sans-serif;
+}
+body{
+  font-family: "Courier New", Courier, monospace;
+}
+div{
+  background-color: #bacbe2;
+  color: #ffffff;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+#header {
+  color: blue;
+}
+#content {
+  color: #ffff;
+  background-color: #4a4b6d;
+}
+.greentext {
+  color: #346b39;
+}
+.bluetext {
+  color: #080b56;
+}
